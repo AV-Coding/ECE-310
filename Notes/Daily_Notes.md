@@ -123,3 +123,5 @@ x<sub>3</sub> = 1
 
 
 ### left column is not Echelon Form right column is Echelon Form
+
+![](./../photos/class-echelon-form.jpg)
